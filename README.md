@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeterMarrone
-- 👀 I’m interested in Hardware and Software Engineering.
+- 👀 I’m interested in Software and Hardware Engineering.
 - 🌱 I’m currently learning Full Stack Development and Embedded Operating Systems.
 - 💞️ I’m looking to collaborate on a CompE 561 Web Application.
 - 📫 How to reach me marronepeter@yahoo.com
